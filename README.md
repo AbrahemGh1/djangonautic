@@ -10,3 +10,7 @@ You will find 4 account :<br>
 Password 'mantest1' for all accounts
 
 <img src='https://github.com/AbrahemGh1/djangonautic/blob/master/images/127.0.0.1%208000%20articles%20.png'>
+<img src='https://github.com/AbrahemGh1/djangonautic/blob/master/images/127.0.0.1%208000%20accounts%20signup%20.png'>
+<img src='https://github.com/AbrahemGh1/djangonautic/blob/master/images/127.0.0.1%208000%20articles%20.png'>
+<img src='https://github.com/AbrahemGh1/djangonautic/blob/master/images/127.0.0.1%208000%20articles%20create%20.png'>
+<img src='https://github.com/AbrahemGh1/djangonautic/blob/master/images/127.0.0.1%208000%20articles%20how-old-is-our-universe%20.png'>
